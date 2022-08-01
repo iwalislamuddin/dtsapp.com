@@ -1,0 +1,27 @@
+CRITICAL - 2022-02-10 01:34:06 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\dtsapp\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\dtsapp\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\dtsapp\app\Controllers\SwitchLang.php(11): redirect('http://localhos...')
+#3 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(825): App\Controllers\SwitchLang->index('en')
+#4 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SwitchLang))
+#5 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\dtsapp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 01:52:34 --> syntax error, unexpected token ";", expecting ")"
+#0 C:\xampp\htdocs\dtsapp\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\dtsapp\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\dtsapp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 18:50:43 --> Invalid file: polici_id.php
+#0 C:\xampp\htdocs\dtsapp\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('polici_id.php')
+#1 C:\xampp\htdocs\dtsapp\system\Common.php(1089): CodeIgniter\View\View->render('polici_id', Array, true)
+#2 C:\xampp\htdocs\dtsapp\app\Controllers\Policy.php(11): view('polici_id', Array)
+#3 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(825): App\Controllers\Policy->index()
+#4 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Policy))
+#5 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\dtsapp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

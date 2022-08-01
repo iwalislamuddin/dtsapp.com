@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>https://dtsapp.com/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/about/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/disclaimer/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/policy/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/contact/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/beam_formulas/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/geometry/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/steel_material/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/steel_table/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/steel_profile/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/steel_flexure/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/steel_axial/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/steel_shear/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+   <url>
+      <loc>https://dtsapp.com/steel_combined/</loc>
+      <lastmod>2022-01-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
+
+</urlset> 

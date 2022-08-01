@@ -1,0 +1,23 @@
+{"ASTM" : [
+    {
+        "grade": "A36",
+        "properties" : [
+            ["t <= 75 mm", "fy = 250 MPa"],
+            [""]
+        ]
+    },
+    {
+        "grade": "A37",
+        "tensile strength" : "400 MPa"
+    }
+],
+"JIS" : [
+    {
+        "grade": "SS400",
+        "tensile strength" : "400 MPa"
+    },
+    {
+        "grade": "SS5400",
+        "tensile strength" : "400 MPa"
+    }
+]}

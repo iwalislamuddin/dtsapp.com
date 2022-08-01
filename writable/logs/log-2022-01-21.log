@@ -1,0 +1,10 @@
+CRITICAL - 2022-01-21 00:14:37 --> Call to undefined function trans()
+#0 C:\xampp\htdocs\dtsapp\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\dtsapp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\dtsapp\system\Common.php(1089): CodeIgniter\View\View->render('beam_formulas', Array, true)
+#3 C:\xampp\htdocs\dtsapp\app\Controllers\BeamFormulas.php(10): view('beam_formulas', Array)
+#4 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(825): App\Controllers\BeamFormulas->index()
+#5 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\BeamFormulas))
+#6 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\dtsapp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

@@ -1,0 +1,12 @@
+CRITICAL - 2022-02-12 06:52:00 --> Array to string conversion
+#0 C:\xampp\htdocs\dtsapp\app\Views\layout\template.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 127)
+#1 C:\xampp\htdocs\dtsapp\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\dtsapp\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\dtsapp\system\View\View.php(226): CodeIgniter\View\View->render('layout/template', Array, true)
+#4 C:\xampp\htdocs\dtsapp\system\Common.php(1089): CodeIgniter\View\View->render('about', Array, true)
+#5 C:\xampp\htdocs\dtsapp\app\Controllers\About.php(11): view('about', Array)
+#6 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(825): App\Controllers\About->index()
+#7 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#8 C:\xampp\htdocs\dtsapp\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\dtsapp\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

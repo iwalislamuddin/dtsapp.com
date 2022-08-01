@@ -1,0 +1,87 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300&display=swap');
+
+body {
+    font-family: 'Fira Sans', sans-serif !important;
+    font-size: 0.8rem;
+    font-weight: 300;
+}
+
+h5,
+h6 {
+    font-weight: 400;
+}
+
+input,
+select {
+    font-size: 0.8rem;
+    font-weight: 300 !important;
+}
+
+button,
+.card,
+.card-header,
+.card-img,
+.card-img-top,
+.form-control,
+.btn {
+    border-radius: 0;
+}
+
+.table-hl,
+.table-hl>td,
+.table-hl>th {
+    background-color: #fdf1e6;
+}
+
+/* tbody {
+    height: 120px;
+    overflow-y: auto;
+} */
+
+table thead th {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    min-width: 65px;
+}
+
+table thead th:first-child {
+    position: sticky;
+    left: 0;
+    top: 0;
+    z-index: 3;
+    min-width: 100px;
+}
+
+table tbody th:first-child {
+    position: sticky;
+    left: 0;
+    z-index: 2;
+}
+
+table tbody tr:nth-child(even) th:first-child {
+    background-color: #f4f7f4;
+}
+
+table tbody tr:nth-child(odd) th:first-child {
+    background-color: #d5dccd;
+}
+
+.app-primary {
+    background-color: #30bced;
+}
+
+@media print {
+    .noprint {
+        display: none;
+    }
+}
+
+.tab-text {
+    color: #0B6383;
+    text-align: center;
+    background-color: #f4f7f4;
+}
+
+/* ***************** */

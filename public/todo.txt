@@ -1,0 +1,15 @@
+1. Language switcher (done)
+2. Print page 
+3. Translation untuk meta title & deskripsi
+4. Release notes
+
+
+v0.1 Jan-2022
+1. Modul Beam Formulas released with calculation for: Simple Beams, Cantilever Beams, Overhang Beams, Fixed End Beams
+
+
+v0.2 Feb-2022
+1. Add language: Bahasa Indonesia
+2. Add modul: Geometry. Calculation for Rectangle, Circles, Triangle, Ellipse, Hexagon, Trapezoid, and Parabolic shape 
+3. Indonesian translation for main pages
+4. Add Print feature 

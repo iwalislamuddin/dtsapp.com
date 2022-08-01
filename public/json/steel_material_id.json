@@ -1,0 +1,20 @@
+{"ASTM" : [
+    {
+        "Mutu": "A36",
+        "Kuat Tarik Putus" : "400 MPa"
+    },
+    {
+        "grade": "A37",
+        "tensile strength" : "400 MPa"
+    }
+],
+"JIS" : [
+    {
+        "grade": "SS400",
+        "tensile strength" : "400 MPa"
+    },
+    {
+        "grade": "SS5400",
+        "tensile strength" : "400 MPa"
+    }
+]}

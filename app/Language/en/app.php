@@ -1,0 +1,93 @@
+<?php
+
+/**
+ *
+ * ENGLISH
+ *
+ */
+return [
+    // DASHBOARD
+    'main_title'                        => "Online Calculator for Civil Engineering",
+    'beam formulas'                     => "Beam Formulas",
+    'section properties'                => "Section Properties",
+    'basic'                             => "Basic",
+    'geometry formulas'                 => "Geometry Formulas",
+    'steel structure'                   => "Steel Structures",
+    'material standards'                => "Material Standards",
+    'section properties'                => "Section Properties",
+    'tables'                            => "Tables",
+    'custom'                            => "Custom",
+    'flexural capacity'                 => "Flexural Capacity",
+    'axial capacity'                    => "Axial Capacity",
+    'shear capacity'                    => "Shear Capacity",
+    'combined actions'                  => "Combined Actions",
+    'structural mechanics'              => "Structural Mechanics",
+
+    'length'                            => "Length",
+    'span length'                       => "Span length",
+    'distributed load'                  => "Distributed load",
+    'load'                              => "Load",
+    'type'                              => "Type",
+    'result'                            => "Result",
+    'distance'                          => "Distance",
+    'mod. elasticity'                   => "Mod. elasticity",
+    'modulus of elasticity'             => "Modulus of elasticity",
+    'inertia'                           => "Inertia",
+    'basic geometry'                    => "Basic Geometry",
+    'width'                             => "Width",
+    'height'                            => "Height",
+    'radius'                            => "Radius",
+    'diameter'                          => "Diameter",
+    'outer diameter'                    => "Outer diameter",
+    'inner diameter'                    => "Inner diameter",
+    'thickness'                         => "Thickness",
+    'center of gravity'                 => "Center of gravity",
+    'area'                              => "Area",
+    'moment of inertia'                 => "Moment of intertia",
+    'radius of gyration'                => "Radius of gyration",
+    'elastic section modulus'           => "Elastic section modulus",
+    'plastic section modulus'           => "Plastic section modulus",
+
+    'rectangle'                         => "Rectangle",
+    'triangle'                          => "Triangle",
+    'circle'                            => "Circle",
+    "semi-circle"                       => "Semi-Circle",
+    "quarter-circle"                    => "Quarter-Circle",
+    "hollow-circle"                     => "Hollow-Circle",
+    "ellipse"                           => "Ellipse",
+    "trapezoid"                         => "Trapezoid",
+    "hexagon"                           => "Hexagon",
+    "parabolic shape"                   => "Parabolic shape",
+
+    'lblSimpleBeam1'                    => "Simple Beam - Uniformly Distributed Load",
+    'simple beam'                       => "Simple Beam",
+    'cantilever beam'                   => "Cantilever Beam",
+    'overhang beam'                     => "Overhang Beam",
+    'fixed ends beam'                   => "Fixed Ends Beam",
+    'EI constant'                       => "EI Constant",
+    'EI input'                          => "EI Input",
+    'support reaction'                  => "Support Reactions",
+    'moment'                            => "Moment",
+    'shear'                             => "Shear",
+    'deflection'                        => "Deflection",
+    'value at'                          => "Value at",
+    'EI in'                             => "EI in",
+    'notes'                             => "Notes",
+    'at'                                => "At",
+
+    'about'                             => "About Us",
+    'contact'                           => "Contact",
+    'disclaimer'                        => "Disclaimer",
+    'privacy policy'                    => "Privacy Policy",
+    'print this page'                   => "Print This Page",
+
+    'shape'                             => "Shape",
+    'code'                              => "Code",
+    'all'                               => "All",
+    'steel material standards'          => "Steel Material Standards",
+    'standard'                          => "Standard",
+    'section profile'                   => "Section Profile",
+    'steel table'                       => "Steel Profile Table",
+
+
+];

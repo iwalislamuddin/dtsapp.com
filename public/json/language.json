@@ -1,0 +1,11 @@
+{
+    "en" : {
+        "distance"  : "Distance",
+        "depth"     : "Depth"
+    },
+
+    "id" : {
+        "distance"  : "Jarak",
+        "depth"     : "Tinggi"
+    }
+}
